@@ -1,0 +1,143 @@
+
+
+#info{
+    background-color:rgb(0, 0, 0);
+    color:rgb(174, 221, 241);
+}
+
+
+
+h2{
+    font-family: "Russo One", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30pt;
+    letter-spacing:3px;
+    word-spacing:7px;
+    color:rgb(120, 0, 60);
+    width:1100px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h3{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:weight;
+    font-style: normal;
+    font-size: 20pt;
+    color:rgb(64, 1, 89);
+    
+}
+
+h4{
+    font-family: 'Jersey 10';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40pt;
+    padding-right:72px;
+    padding-left:20px;
+}
+
+
+ul{
+    list-style-type:square;
+    color:rgb(248, 0, 0);
+}
+
+#redes{
+    text-align:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+    color:rgb(255, 255, 255);
+}
+#ins{
+    background-color: rgba(174, 179, 184, 0);
+}
+
+a{
+    color:rgb(0, 0, 0);
+    font-size: 25pt;
+    background-color: rgba(174, 179, 184, 0.429);
+    padding-right:70px;
+    padding-left:20px;
+
+}
+
+.img-galeria{
+    width: 45%;
+    display:flex;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+#Foto{
+    width:1200px;
+}
+.galeria{
+    display:flex;
+    flex-wrap:wrap;
+    padding-right:5px;
+    padding-left:10px;
+}
+
+h1{
+    font-family: "Kumar One", serif;
+    font-weight: 800;
+    font-style:normal;
+    font-size: 50pt;
+   background-color:rgba(172, 244, 238, 0);
+    padding-right:20px;
+    padding-left:20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom:5px;
+}
+header{
+    background-image: url('aa.jpg');
+    width:1100px;
+    height:200px;
+    padding-top:10px;
+    padding-right:72px;
+    padding-bottom:40px;
+    padding-left:20px;
+    margin-top:0px;
+    margin-bottom:20px;
+    margin-left:0px;
+  
+
+   text-align: center;
+
+}
+body{
+    background-image: url('min.png');
+    
+}
+#ftobeo{
+    width: 70%;
+}
+#Bio{
+    text-align:justify;
+    letter-spacing:1px;
+    line-height:normal;
+    background-color:rgb(208, 182, 142);
+    width:1200px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-left:0px;
+    margin-right:0px;
+    border-top: 5px rgba(0, 0, 0, 0.559);
+    border-bottom: 5px rgba(0, 0, 0, 0.559) ;
+}
+p {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18pt;
+    color:rgb(16, 15, 15);
+}
+#Pag3{
+    background-color:rgba(156, 156, 156, 0.521);
+}
